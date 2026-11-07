@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Bruno Monte | Ortopedia e Oncologia Ortopédica em Teresina",
+  "description": "Site oficial do Dr. Bruno Soares Monte (CRM-PI 5809 | RQE 4109). Ortopedia, cirurgia da coluna minimamente invasiva, tratamento da dor e oncologia ortopédica em Teresina - PI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
